@@ -1,7 +1,7 @@
 # Time-Healer
 Stand-alone application represents a clinic management system 
 ## GUI 
-that class represents the entry point of our application , represtenting the login page , found in <a href=" https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/GUI.java">GUI.java</a> file.
+that class represents the entry point of our application , represtenting the login page , found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/GUI.java">GUI.java</a> file.
 
 after choosing the role of user there are three cases 
 first : entering wrong credentials 
@@ -71,8 +71,10 @@ as we frequently said , requirig choosing the role and credentials to the accoun
 
 ![My_Image](delete_account.jpg)
 
-then 
+then
+
 ![My_Image](deleting_result.jpg)
+
 and then it goes back to the admin page 
 
 
