@@ -1,0 +1,94 @@
+Patient: Jane Doe 25
+Age: Female
+Address: 456 Oak St
+Phone: null
+Gender: null
+Blood Type: null
+
+Patient: logina hamdoun
+Age: 22
+Address: street
+Phone: 
+Gender: Female
+Blood Type: A
+flu
+
+
+
+Patient: John Doe 30
+Age: Male
+Address: 123 Main St
+Phone: 012549635
+Gender: Male
+Blood Type: A
+
+
+
+Patient: John Doe 30
+Age: Male
+Address: 123 Main St
+Phone: 012549635
+Gender: Male
+Blood Type: B
+
+
+
+Patient: John Doe 30
+Age: Male
+Address: 123 Main St
+Phone: 012549635
+Gender: Male
+Blood Type: A
+
+
+Patient: menna islam
+Age: 20
+Address: scdcvefer St
+Phone: 
+Gender: Female
+Blood Type: AB
+
+
+
+
+
+
+Patient: will ford
+Age: 40
+Address: two St
+Phone: 0584524
+Gender: Male
+Blood Type: AB
+
+
+
+Patient: will ford
+Age: 52
+Address: hhh
+Phone: 0584524
+Gender: Male
+Blood Type: AB
+
+
+
+Patient: will ford
+Age: 40
+Address: first St
+Phone: 0584524
+Gender: Male
+Blood Type: AB
+
+Patient: will ford
+Age: 52
+Address: hhh
+Phone: 0584524
+Gender: Male
+Blood Type: AB
+
+
+Patient: Free  Palestine
+Age: 100
+Address: palestine St
+Phone: 5498584
+Gender: Female
+Blood Type: A

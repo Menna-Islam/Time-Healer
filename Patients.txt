@@ -1,0 +1,8 @@
+John Doe, 30, Male, 123 Main St
+Jane Doe, 25, Female, 456 Oak St
+menna, islam, 20, scdcvefer St, , Female, O
+logina, hamdoun, 22, street, Female, A
+will, ford, 52, hhh, 0584524, Male, AB
+test, test, 25, test St, 22545465, Male, A
+Free , Palestine, 100, palestine St, 5498584, Female, A
+thf, fhgh, hfth, fhtft, fhht, Male, A
