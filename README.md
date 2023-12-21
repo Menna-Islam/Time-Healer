@@ -78,7 +78,7 @@ and then it goes back to the admin page
 
 
 ## Doctor page 
-The doctor page , found in found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/DoctorPanel.java">DoctorPanel.java</a> file 
+The doctor page , found in found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/DoctorPanel.java">DoctorPanel.java</a> file 
 
 provides functionalities for viewing appointments, viewing medical records, and managing medical records.
 
@@ -110,7 +110,7 @@ After modification:
 
 ## Receptionist page 
 
-The receptionist page, implemented in <a href="[https://github.com/Menna-Islam/Time-Healer/blob/main/src/ReceptionistPanel.java">ReceptionistPanel.java</a> file encompasses functionalities for managing patients and scheduling appointments.
+The receptionist page, implemented in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/ReceptionistPanel.java">ReceptionistPanel.java</a> file encompasses functionalities for managing patients and scheduling appointments.
 
 ![My_Image](receptionist_panel.jpg)
 
