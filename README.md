@@ -1,7 +1,7 @@
 # Time-Healer
 Stand-alone application represents a clinic management system 
 ## GUI 
-The entry point of our application is represented by the login page, which is implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/GUI.java">GUI.java</a> file.
+The entry point of our application is represented by the login page, which is implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/GUI.java">GUI.java</a> file.
 
  Upon selecting the user role, there are three possible scenarios: 
 1. entering wrong credentials 
