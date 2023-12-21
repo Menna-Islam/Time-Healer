@@ -93,7 +93,7 @@ Doctors can view and verify all scheduled appointments.
 ### View medical record 
 Doctors can access patient medical records by selecting a specific patient.
 
-![My_Image](view_medical_reocrds.jpg)
+![My_Image](view_medical_records.jpg)
 
 ![My_image](choosing_patient's_medical_record.jpg)
 
