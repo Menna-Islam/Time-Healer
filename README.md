@@ -15,8 +15,7 @@ second : leaving on of the fields empty
 third : entering valid credentials , navigating us to the page of selected role 
 
 ## Admin page 
-that class represents administartor page with all the functionalities required , found in  found in <a href=" https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/AdminPanel.java">AdminPanel.java</a>
-
+that class represents administartor page with all the functionalities required , found in  found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/AdminPanel.java">AdminPanel.java</a> file.
 in the admin page 
 
 ![My_Image](admin_panel.jpg)
@@ -79,7 +78,7 @@ and then it goes back to the admin page
 
 
 ## Doctor page 
-that class represents doctor page with all the functionalities required , found in  found in <a href=" https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/DoctorPanel.java">DoctorPanel.java</a>
+that class represents doctor page with all the functionalities required , found in  found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/DoctorPanel.java">DoctorPanel.java</a> file.
 
 in doctor page 
 
@@ -112,8 +111,7 @@ then
 
 ## Receptionist page 
 
-that class represents receptionist page with all the functionalities required , found in  found in <a href=" https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/ReceptionistPanel.java">ReceptionistPanel.java</a>
-
+that class represents receptionist page with all the functionalities required , found in  found in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/ReceptionistPanel.java">ReceptionistPanel.java</a> file.
 in doctor page 
 
 ![My_Image](receptionist_panel.jpg)
