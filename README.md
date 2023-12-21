@@ -15,7 +15,7 @@ The entry point of our application is represented by the login page, which is im
 3. entering valid credentials , navigating us to the page of selected role 
 
 ## Admin page 
-The administrator page, implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/AdminPanel.java">AdminPanel.java</a> file , encompasses all necessary functionalities.
+The administrator page, implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/AdminPanel.java">AdminPanel.java</a> file , encompasses all necessary functionalities.
 
 in the admin page 
 
