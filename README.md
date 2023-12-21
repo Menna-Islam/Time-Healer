@@ -54,7 +54,7 @@ then,It navigates us to the editing page , requiring to choose what field exactl
 
 ![My_Image](edit_account.jpg)
 
-![My_Image](modifying_passwordt.jpg)
+![My_Image](modifying_password.jpg)
 
 ![My_Image](modifying_both.jpg)
 
