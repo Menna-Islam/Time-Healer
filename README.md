@@ -110,7 +110,7 @@ After modification:
 
 ## Receptionist page 
 
-The receptionist page, implemented in <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/ReceptionistPanel.java">ReceptionistPanel.java</a> file encompasses functionalities for managing patients and scheduling appointments.
+The receptionist page, implemented in <a href="[https://github.com/Menna-Islam/Time-Healer/blob/main/src/ReceptionistPanel.java">ReceptionistPanel.java</a> file encompasses functionalities for managing patients and scheduling appointments.
 
 ![My_Image](receptionist_panel.jpg)
 
