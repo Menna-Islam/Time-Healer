@@ -149,7 +149,7 @@ After selecting an existing patient, receptionists can create medical records.
 ### Schedule appointments
 Receptionists can view, add, or delete appointments.
 
-![My_Image](schedule.appointments.jpg) 
+![My_Image](schedule_appointments.jpg) 
 
 
 #### Show and delete appointments 
