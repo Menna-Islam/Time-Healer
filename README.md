@@ -1,12 +1,13 @@
 # Time-Healer
 Stand-alone application represents a clinic management system 
+
 ## Team Members 
-Menna Islam 
-Haneen Amr 
-Tasneem Khaled 
-Abdelrahman Waleed
-Mamdouh Ahmed 
-Nour ELDeen Ahmed
+###Menna Islam 
+###Haneen Amr 
+###Tasneem Khaled 
+###Abdelrahman Waleed
+###Mamdouh Ahmed 
+###Nour ELDeen Ahmed
 
 ## GUI 
 The entry point of our application is represented by the login page, which is implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/GUI.java">GUI.java</a> file.
