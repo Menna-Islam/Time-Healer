@@ -1,13 +1,6 @@
 # Time-Healer
 Stand-alone application represents a clinic management system 
 
-## Team Members 
-### Menna Islam 
-### Haneen Amr 
-### Tasneem Khaled 
-### Abdelrahman Waleed
-### Mamdouh Ahmed 
-### Nour ELDeen Ahmed
 
 ## GUI 
 The entry point of our application is represented by the login page, which is implemented in the  <a href="https://github.com/Menna-Islam/Time-Healer/blob/main/src/com/clinic/GUI.java">GUI.java</a> file.
@@ -178,6 +171,14 @@ Resulting in:
 
 ![My_Image](bill.jpg) 
 
+
+## Team Members 
+- Menna Islam 
+- Haneen Amr  , Github Profile :  <a href="">Haneen Amr</a>
+- Tasneem Khaled , Github Profile :  <a href="">Tasneem Khaled</a>
+- Abdelrahman Waleed , Github Profile :  <a href="">Abdelrahman Waleed</a>
+- Mamdouh Ahmed , Github Profile :  <a href="https://github.com/MamdouhAmin">Mamdouh Amin</a>
+- Nour ELDeen Ahmed , Github Profile :  <a href="https://github.com/noureldeen106">Nour ElDeen Ahmed</a>
 
 
 
