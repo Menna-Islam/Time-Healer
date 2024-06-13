@@ -174,7 +174,7 @@ Resulting in:
 
 ## Team Members 
 - Menna Islam , Github Profile :  <a href="https://github.com/Menna-Islam">Menna Islam</a>
-- Haneen Amr  , Github Profile :  <a href="">Haneen Amr</a>
+- Haneen Amr  , Github Profile :  <a href="https://github.com/haneennamr">Haneen Amr</a>
 - Tasneem Khaled , Github Profile :  <a href="">Tasneem Khaled</a>
 - Abdelrahman Waleed , Github Profile :  <a href="">Abdelrahman Waleed</a>
 - Mamdouh Ahmed , Github Profile :  <a href="https://github.com/MamdouhAmin">Mamdouh Amin</a>
